@@ -1,0 +1,333 @@
+body {
+    color: rgb(255, 174, 0);
+    background-image: url("images/CosmicGif.gif");
+    height: 100%;
+    width: 100%;
+    margin-left: 0px;
+    background-color: #1b072d;
+}
+
+#DecorImages{
+    display: inline-flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+#Cosmic{
+    width: 650px;
+    height: 400px;
+}
+
+#Cosmic:hover{
+    width: 646px;
+    height: 396px;
+    border: 2px solid #ffd900;
+    box-shadow: 4px 4px #1b072d;
+}
+
+#Cosmic2{
+    width: 650px;
+    height: 400px;
+}
+
+#Cosmic2:hover{
+    width: 646px;
+    height: 396px;
+    border: 2px solid #ffd900;
+    box-shadow: 4px 4px #1b072d;
+}
+
+#Cosmic3{
+    width: 650px;
+    height: 400px;
+}
+
+#Cosmic3:hover{
+    width: 646px;
+    height: 396px;
+    border: 2px solid #ffd900;
+    box-shadow: 4px 4px #1b072d;
+}
+
+
+#MostCertainlyTrueInformation{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+#MostCertainlyTrueInformation2{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+#FirstPerson{
+    width: 100%;
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: rgb(200, 247, 255);
+    color:rgb(112, 1, 1);
+    height: 625px;
+    padding: 2px;
+    border: 2px dashed #1b072d;
+}
+
+#SecondPerson{
+    width: 100%;
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: rgb(200, 247, 255);
+    color:rgb(112, 1, 1);
+    height: 625px;
+    padding: 2px;
+    border: 2px solid #ffa200;
+}
+
+#ThirdPerson{
+    width: 100%;
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: rgb(200, 247, 255);
+    color:rgb(112, 1, 1);
+    height: 625px;
+    padding: 2px;
+    border: 2px dotted #00aeff;
+}
+
+#SixthPerson{
+    width: 100%;
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: rgb(200, 247, 255);
+    color:rgb(112, 1, 1);
+    height: 625px;
+    padding: 2px;
+    border: 2px dashed #1b072d;
+}
+
+#FourthPerson{
+    width: 100%;
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: rgb(200, 247, 255);
+    color:rgb(112, 1, 1);
+    height: 625px;
+    padding: 2px;
+    border: 2px solid #ffa200;
+}
+
+#FifthPerson{
+    width: 100%;
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: rgb(200, 247, 255);
+    color:rgb(112, 1, 1);
+    height: 625px;
+    padding: 2px;
+    border: 2px dotted #00aeff;
+}
+
+
+.Information{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.Fancy{
+    width: 99.5%;
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(236, 207, 255);
+    color: #1b072d;
+    padding: 5px;
+}
+
+#Gender{
+    display: inline-flex;
+    color: #ff0066;
+}
+
+#Name{
+    display: inline-flex;
+    color: #1b072d;
+}
+
+#Location{
+    display: inline-flex;
+    color: orangered;
+}
+
+#Email{
+    display: inline-flex;
+    color:rgb(162, 0, 255);
+}
+
+#Birthday{
+    display: inline-flex;
+    color: brown;
+}
+
+#Gender2{
+    display: inline-flex;
+    color: #ff0066;
+}
+
+#Name2{
+    display: inline-flex;
+    color: #1b072d;
+}
+
+#Location2{
+    display: inline-flex;
+    color: orangered;
+}
+
+#Email2{
+    display: inline-flex;
+    color:rgb(162, 0, 255);
+}
+
+#Birthday2{
+    display: inline-flex;
+    color: brown;
+}
+
+#Gender3{
+    display: inline-flex;
+    color: #ff0066;
+}
+
+#Name3{
+    display: inline-flex;
+    color: #1b072d;
+}
+
+#Location3{
+    display: inline-flex;
+    color: orangered;
+}
+
+#Email3{
+    display: inline-flex;
+    color:rgb(162, 0, 255);
+}
+
+#Birthday3{
+    display: inline-flex;
+    color: brown;
+}
+
+#Gender4{
+    display: inline-flex;
+    color: #ff0066;
+}
+
+#Name4{
+    display: inline-flex;
+    color: #1b072d;
+}
+
+#Location4{
+    display: inline-flex;
+    color: orangered;
+}
+
+#Email4{
+    display: inline-flex;
+    color:rgb(162, 0, 255);
+}
+
+#Birthday4{
+    display: inline-flex;
+    color: brown;
+}
+
+#Gender5{
+    display: inline-flex;
+    color: #ff0066;
+}
+
+#Name5{
+    display: inline-flex;
+    color: #1b072d;
+}
+
+#Location5{
+    display: inline-flex;
+    color: orangered;
+}
+
+#Email5{
+    display: inline-flex;
+    color:rgb(162, 0, 255);
+}
+
+#Birthday5{
+    display: inline-flex;
+    color: brown;
+}
+
+#Gender6{
+    display: inline-flex;
+    color: #ff0066;
+}
+
+#Name6{
+    display: inline-flex;
+    color: #1b072d;
+}
+
+#Location6{
+    display: inline-flex;
+    color: orangered;
+}
+
+#Email6{
+    display: inline-flex;
+    color:rgb(162, 0, 255);
+}
+
+#Birthday6{
+    display: inline-flex;
+    color: brown;
+}
+
+#thyButton {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #b3fde5;
+    padding: 5px;
+}
+
+#random_btn{
+    border: 2px dashed #34eba8;
+    background-color: #cffbfc;
+    color: #23804d;
+    box-shadow: 4px 4px black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 550;
+}
+
+#random_btn:hover {
+    border: 2px solid #8934eb;
+    box-shadow: 4px 4px rgb(32, 129, 63);
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 0.5px 0.5px rgb(72, 58, 58);
+}
